@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/Bravodev88/Bravodev88/blob/main/goals.jpg?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/talentdev219/talentdev219/blob/main/goals.jpg?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
@@ -17,7 +17,7 @@
 ✔ Development for me is a challenge where I am capable of creating complex projects and finding the best solutions.<br>
 </p>
 <p align="center">
-  <a href="https://github.com/Bravodev88"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20full-stack%20developer;10+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20full%20stack%20developer&center=true&width=800&height=45"></a>
+  <a href="https://github.com/talentdev219"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20full-stack%20developer;10+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20full%20stack%20developer&center=true&width=800&height=45"></a>
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <img align="right" src="https://img.shields.io/github/followers/Talent0407?label=Follow&style=social" />
@@ -59,13 +59,13 @@
   </tr>
 </table>
 <div align="center" >
-  <a  align="center" href="https://github.com/Bravodev88" title="Go to Source">
+  <a  align="center" href="https://github.com/talentdev219" title="Go to Source">
     <img width=50% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=Talent0407&theme=react&border=61dafb&hide_border=true" alt="Talent0407" />
   </a>
 </div>
 <div align="center" >
   <img width=55% align="left" alt="Talent0407's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Talent0407&theme=github_dark&show_icons=true&hide_border=false" />
-  <a align="left" href="https://github.com/Bravodev88">
+  <a align="left" href="https://github.com/talentdev219">
     <img width=40% alt="Talent0407" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talent0407&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
